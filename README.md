@@ -1,2 +1,2 @@
-# Madhushala
-Madhushala serves as a comprehensive online platform that connects users with restaurants, providing a convenient way to discover, order from, and review dining establishments in various cities around the world. Users can create accounts in this website and engage in discussions about restaurants and beverages experiences.
+# SipSage
+SipSage is an engaging user interface with features like a beverage selection, search functionality, and image-based item displays to enhance user experience.Implemented login and sign-up forms with validation, ensuring secure access to the platform for registered users.The project includes responsive design elements that adapt to different screen sizes, providing a consistent user experience across devices.
